@@ -49,7 +49,7 @@ Using Pandas and the Scikit-Learn’s StandardScaler(), I haved preprocessed the
   - Use the number of data points for each unique value to pick a cutoff point to bin "rare" categorical variables together in a new value, Other, and then check if the binning was successful.
 
   - Use pd.get_dummies() to encode categorical variables
-  - 
+ 
 ![Screen Shot 2022-03-12 at 4 01 45 PM](https://user-images.githubusercontent.com/87212158/158034847-e4c44d8e-d7f9-4726-8f64-994660f5a5dc.png)
 
 **Compile, Train, and Evaluate the Model**
